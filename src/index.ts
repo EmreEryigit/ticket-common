@@ -1,4 +1,4 @@
-// re-export everything
+// re-export everything from index.ts
 
 export * from "./errors/bad-request-error";
 export * from "./errors/custom-error";
